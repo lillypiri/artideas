@@ -13,7 +13,7 @@ get '/' do
     "Twelve live pigs, dressed in the finest bridal garments from Christian Dior and Chanel, being offered up on an altar to the Greek God of War, Ares. Simulatenously evoking both base human fear and inhibiting empathy.",
     "A work that encompasses the bourgeoisie and its obsession with clean eating in the context of frantic manifestos of self identity. A hand held device offers up the Tinder application, with which viewers are invited to disrobe, and swipe in either direction on cached profiles of clean-eating Tinder users. It is recommended that users swipe with only their tongue, to symbolise the realities of identity in a technological new world.",
     "A plaster cast of the surface of a corrugated steel roof, encrusted with flecks of acrid dirt, created with mashed potato. An ant colony is invited to ravage the surfaces of this temporal art piece. This work explores the relationship of drought mythology and the Australian identity in a shifting perfomance by nature.",
-    "The artist reclines on a sofa carved from a methodically-excised perfect square of rocky underground from the Pilbara region. The reality of our corroded relationship to nature is violently explored, as the artist proceeds to sing the theme tune of TV series Frasier, whilst basting the sofa's surface with human breast milk mixed with Milo.""
+    "The artist reclines on a sofa carved from a methodically-excised perfect square of rocky underground from the Pilbara region. The reality of our corroded relationship to nature is violently explored, as the artist proceeds to sing the theme tune of TV series Frasier, whilst basting the sofa's surface with human breast milk mixed with Milo."
   ]
   @choice = choices.sample
   erb :index

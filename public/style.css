@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+
 body {
   background-color: #c2c2a3;
-  font-family: "Palatino";
+  font-family: "Press Start 2P";
   font-size: 16px;
 }
 
@@ -13,6 +16,6 @@ h1{
 p{
   color: #000000;
   text-align: center;
-  font-family: 'Palatino';
   font-size: 18px;
+  line-height: 25px;
 }

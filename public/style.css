@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P|Lato);
 
 
 body {
@@ -14,11 +14,15 @@ body {
     margin: auto;
     margin-bottom: 50px;
 }
-
 .artwork img {
     max-width: 100%;
     box-shadow: 0 5px 20px rgba(0,0,0,0.7);
     margin-top: -100px;
+}
+@media all and (max-device-width: 480px) {
+    .artwork img {
+        margin-top: -20px;
+    }
 }
 
 
@@ -51,11 +55,19 @@ body {
     color: white;
     background: #06f;
     border-bottom: 2px solid #04e;
-    padding: 10px 20px;
-    font-size: 18px;
+    padding: 15px 25px;
+    font-family: "Press Start 2P";
+    font-size: 16px;
     text-decoration: none;
     border-radius: 3px;
+    text-transform: uppercase;
 }
+@media all and (max-device-width: 480px) {
+    .action a {
+        font-size: 12px;
+    }
+}
+
 .action a:hover {
     background: #07f;
     border-bottom: 2px solid #05f;

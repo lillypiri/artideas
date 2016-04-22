@@ -1,21 +1,85 @@
-@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P|Lato);
 
 
 body {
-  background-color: #c2c2a3;
-  font-family: "Press Start 2P";
-  font-size: 16px;
+  background: url("/wall.png");
+  font-family: "Lato";
+  margin: 0;
+  padding: 0;
 }
 
-h1{
-  color: #000000;
-  text-align: center;
-  font-size: 25px;
+
+.artwork {
+    max-width: 90%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.artwork img {
+    max-width: 100%;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.7);
+    margin-top: -100px;
+}
+@media all and (max-device-width: 480px) {
+    .artwork img {
+        margin-top: -20px;
+    }
 }
 
-p{
-  color: #000000;
-  text-align: center;
-  font-size: 18px;
-  line-height: 25px;
+
+.plaque {
+    background: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    border-bottom: 1px solid #eee;
+    padding: 30px;
+    font-size: 18px;
+    line-height: 26px;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.plaque h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.plaque p {
+    margin: 0;
+    padding: 0;
+}
+
+.action {
+    text-align: center;
+}
+.action a {
+    color: white;
+    background: #06f;
+    border-bottom: 2px solid #04e;
+    padding: 15px 25px;
+    font-family: "Press Start 2P";
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+@media all and (max-device-width: 480px) {
+    .action a {
+        font-size: 12px;
+    }
+}
+
+.action a:hover {
+    background: #07f;
+    border-bottom: 2px solid #05f;
+}
+
+.footer {
+    padding-top: 120px;
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+}
+.footer a {
+    color: #999;
+    text-decoration: underline;
 }

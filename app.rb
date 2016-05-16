@@ -18,7 +18,7 @@ get '/' do
     "An entire forest, with a cloaking system that deprives everything of light and wind, at intervals of 20 minutes each. An introspective foray into a world devoid of light and therefore one of the primary senses. The participants are invited to explore the area during the darkened periods and to consider the senses of smell, touch, sound and taste.",
     "A re-staging of Neko Atsume, the popular mobile application. The viewers are offered the chance to participate by donning cat costumes to dress as their favourite character. Other participants may feed these cats and offer them toys to play with, which they may pay for by puchasing cans of sardines to trade with. A fascinating and eerie glance into the world of pay to play and reimaginings of virtual worlds.",
     "A maze constructed from recycled shipping crates. Participants are each arranged in groups of 6. Each participant may be given clues or a map, but in inequal measures. At least one participant will receive nothing, except a ball and chain. As the player works their way through the maze, the communist manifesto blasts over a speaker. An exercise in recognising privileges and its consequences.",
-    "A giant perfume bottle, adorned with 1001 perfume logos etched into the glass. A door opens on the side, and the artist steps into the perfume and bathes in it. A succint commentary on the commodificiation of ritual."
+    "A giant perfume bottle, adorned with 1001 perfume logos etched into the glass. A door opens on the side, and the artist steps into the perfume and bathes in it. A succint commentary on the commodificiation of ritual.",
   ]
   @choice = choices.sample
   erb :index

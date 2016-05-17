@@ -26,6 +26,9 @@ get '/' do
     "Attach paintings to the inside of your coat, and attend an art gallery opening of your choosing. Flash your goods at art goers, whilst proclaiming yourself an 'Art Dealer'. An analysis of the commodificiation of art in the 21st century.",
     "Create a twitter account bot that retweets everything the current Prime Minister tweets, and everything that McDonalds tweets. A disarming contrast between corporations and government.",
     "Hold a sign that states 'BEWARE: your purchases will not make you happy', and go to a shopping centre or mall of your choice. Sit in a large clay pot and channel the spirit of Diogenes of Sinope.",
+    "Edit an episode of The Big Bang Theory, by replacing racist and/or sexist dialogue with soundbites of the Yip Yip alien puppets from Sesame Street. A statement from a new generation that loudly declares this aggression will not stand.",
+    "Select a random person to be a hero, in an artificial hero's journey designed by yourself. The hero will be called to adventure by way of a hand written letter perfumed with the oils from the rind of an orange. Supernatural aid will be provided by a mobile application that guides the hero. The hero will be tempted with cheese and bacon ball Cheetos, old recipe Pizza Shapes, and footlong sandwiches. The hero will succumb to temptation, arising from a food coma (rebirth) at a later time. During their reawakening, the artist pours non-toxic paint onto the hero. This symbolises their transformation. Atonement comes in the form of the hero travelling back in time to purchase a truck load of old recipe Pizza Shapes, and handing them out at King George Square.",
+    
 
   ]
   @choice = choices.sample

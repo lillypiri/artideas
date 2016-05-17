@@ -19,6 +19,9 @@ get '/' do
     "A re-staging of Neko Atsume, the popular mobile application. The viewers are offered the chance to participate by donning cat costumes to dress as their favourite character. Other participants may feed these cats and offer them toys to play with, which they may pay for by puchasing cans of sardines to trade with. A fascinating and eerie glance into the world of pay to play and reimaginings of virtual worlds.",
     "A maze constructed from recycled shipping crates. Participants are each arranged in groups of 6. Each participant may be given clues or a map, but in inequal measures. At least one participant will receive nothing, except a ball and chain. As the player works their way through the maze, the communist manifesto blasts over a speaker. An exercise in recognising privileges and its consequences.",
     "A giant perfume bottle, adorned with 1001 perfume logos etched into the glass. A door opens on the side, and the artist steps into the perfume and bathes in it. A succint commentary on the commodificiation of ritual.",
+    "Recreate a jungle space at GOMA, Brisbane. Unleash a Bengal tiger, and twenty politicians armed with spoons and canned cream.",
+    "Scavange the dumpsters of your local grocery shop for food and merchandise. Attach the found objects onto the outside of a suburban house, with a sign exhorting viewers to consume and share the food and objects with their neighbours and friends. An exploration into the excesses and waste of capitalism",
+    "Sit on top of the Storey Bridge until The Nauru Regional Processing Centre is finally closed.",
   ]
   @choice = choices.sample
   erb :index

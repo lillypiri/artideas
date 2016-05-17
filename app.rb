@@ -23,7 +23,9 @@ get '/' do
     "Scavange the dumpsters of your local grocery shop for food and merchandise. Attach the found objects onto the outside of a suburban house, with a sign exhorting viewers to consume and share the food and objects with their neighbours and friends. An exploration into the excesses and waste of capitalism",
     "Sit on top of the Storey Bridge until The Nauru Regional Processing Centre is finally closed.",
     "Commission a factory to create a giant inflatable poop as an homage to the philosopher Michel de Montaigne. Launch your inflatable masterpiece at the Sydney Harbour Bridge, by whacking an inflatable bottle of Moet on its side; praising the sewerage treatment plant, and proclaiming Montaigne's famous quip, ‘Kings and philosophers shit, and so do ladies.’ Revel in the investigation of our collective humanity.",
-    "Attach paintings to the inside of your coat, and attend an art gallery opening of your choosing. Flash your goods at art goers, whilst proclaiming yourself an 'Art Dealer'. An analysis of the commodificiation of art in the 21st century."
+    "Attach paintings to the inside of your coat, and attend an art gallery opening of your choosing. Flash your goods at art goers, whilst proclaiming yourself an 'Art Dealer'. An analysis of the commodificiation of art in the 21st century.",
+    "Create a twitter account bot that retweets everything the current Prime Minister tweets, and everything that McDonalds tweets. A disarming contrast between corporations and government.",
+    "Hold a sign that states 'BEWARE: your purchases will not make you happy', and go to a shopping centre or mall of your choice. Sit in a large clay pot and channel the spirit of Diogenes of Sinope.",
 
   ]
   @choice = choices.sample

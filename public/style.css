@@ -20,6 +20,12 @@ p{
   line-height: 25px;
 }
 
+h2{
+  color: #ffffff;
+  text-align: center;
+  font-size: 10px;
+}
+
 img{
   max-width: 100%;
 }

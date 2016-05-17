@@ -22,6 +22,8 @@ get '/' do
     "Recreate a jungle space at GOMA, Brisbane. Unleash a Bengal tiger, and twenty politicians armed with spoons and canned cream.",
     "Scavange the dumpsters of your local grocery shop for food and merchandise. Attach the found objects onto the outside of a suburban house, with a sign exhorting viewers to consume and share the food and objects with their neighbours and friends. An exploration into the excesses and waste of capitalism",
     "Sit on top of the Storey Bridge until The Nauru Regional Processing Centre is finally closed.",
+    "Commission a factory to create a giant inflatable poop as an homage to the philosopher Michel de Montaigne. Launch your inflatable masterpiece at the Sydney Harbour Bridge, by whacking an inflatable bottle of Moet on its side; praising the sewerage treatment plant, and proclaiming Montaigne's famous quip, ‘Kings and philosophers shit, and so do ladies.’ Revel in the investigation of our collective humanity.",
+
   ]
   @choice = choices.sample
   erb :index

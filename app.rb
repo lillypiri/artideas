@@ -28,7 +28,7 @@ get '/' do
     "Hold a sign that states 'BEWARE: your purchases will not make you happy', and go to a shopping centre or mall of your choice. Sit in a large clay pot and channel the spirit of Diogenes of Sinope.",
     "Edit an episode of The Big Bang Theory, by replacing racist and/or sexist dialogue with soundbites of the Yip Yip alien puppets from Sesame Street. A statement from a new generation that loudly declares this aggression will not stand.",
     "Select a random person to be a hero, in an artificial hero's journey designed by yourself. The hero will be called to adventure by way of a hand written letter perfumed with the oils from the rind of an orange. Supernatural aid will be provided by a mobile application that guides the hero. The hero will be tempted with cheese and bacon ball Cheetos, old recipe Pizza Shapes, and footlong sandwiches. The hero will succumb to temptation, arising from a food coma (rebirth) at a later time. During their reawakening, the artist pours non-toxic paint onto the hero. This symbolises their transformation. Atonement comes in the form of the hero travelling back in time to purchase a truck load of old recipe Pizza Shapes, and handing them out at King George Square.",
-
+    "Create a life size see through cow, and attach empty milk bottles inside that link to udders and underneath the cow, place a mannequin, its bared teeth wrapped viciously around one of the udders, white fluid erupting from its mouth, and pockets stuffed with bloody hundred dollar bills. An incendiary critique of corporate greed and its impact on the farmers."
 
   ]
   @choice = choices.sample
